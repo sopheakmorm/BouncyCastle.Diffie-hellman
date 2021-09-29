@@ -1,0 +1,30 @@
+[submodule "ibb-backoffice-backend---service.preference"]
+	path = ibb-backoffice-backend---service.preference
+	url = https://gitlab.ababank.com/morm.sophak/ibb-backoffice-backend---service.preference.git
+	ignore = dirty
+	branch = develop
+[submodule "ibb-backoffice-backend---service.metadata"]
+	path = ibb-backoffice-backend---service.metadata
+	url = https://gitlab.ababank.com/morm.sophak/ibb-backoffice-backend---service.metadata.git
+	ignore = dirty
+	branch = develop
+[submodule "ibb-backoffice-backend---service.flextool"]
+	path = ibb-backoffice-backend---service.flextool
+	url = https://gitlab.ababank.com/morm.sophak/ibb-backoffice-backend---service.flextool.git
+	ignore = dirty
+	branch = develop
+[submodule "ibb-backoffice-backend---service.draft"]
+	path = ibb-backoffice-backend---service.draft
+	url = https://gitlab.ababank.com/morm.sophak/ibb-backoffice-backend---service.draft.git
+	ignore = dirty
+	branch = develop
+[submodule "ibb-backoffice-backend---service.broadcaster"]
+	path = ibb-backoffice-backend---service.broadcaster
+	url = https://gitlab.ababank.com/morm.sophak/ibb-backoffice-backend---service.broadcaster.git
+	ignore = dirty
+	branch = develop
+[submodule "ibb-backoffice-backend---service.customer"]
+	path = ibb-backoffice-backend---service.customer
+	url = https://gitlab.ababank.com/morm.sophak/ibb-backoffice-backend---service.customer.git
+	ignore = dirty
+	branch = develop

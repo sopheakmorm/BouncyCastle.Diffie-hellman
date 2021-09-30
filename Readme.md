@@ -3,8 +3,6 @@ BouncyCastle.Diffie-hellman
 
 An implementation of the Diffie-Hellman key agreement based on PEM file format.
 
-[![Version](https://badge.fury.io/nu/NLog.Telegram.Format.svg)](https://www.nuget.org/packages/BouncyCastle.Diffie-hellman)
-
 ------------
 
 Test tool
